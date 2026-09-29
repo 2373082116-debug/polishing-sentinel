@@ -1,0 +1,10 @@
+stage/
+dist/
+**/config/
+**/state/
+**/logs/
+**/temp/
+**/backups/
+*.xlsx
+*.xls
+*.log
